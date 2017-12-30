@@ -1,0 +1,122 @@
+body{
+	background-color:rgb(0,99,94);
+}
+.back{
+	margin-left:120px;
+	margin-right:120px;
+	height:1000px;
+	background-color:white;
+}
+.back2{
+	margin-left:120px;
+	margin-right:120px;
+	height:800px;
+	background-color:white;
+}
+.back3{
+	margin-left:120px;
+	margin-right:120px;
+	height:1200px;
+	background-color:white;
+}
+.top{
+	background-color:pink;
+}
+
+#title{
+	margin-left: 100px;
+	font-size: 30px;
+}
+#name{
+	font-size: 20px;
+}
+nav{
+	background-color:lightblue;
+	height:65px;	
+}
+.message{
+	margin-left: 50px;
+}
+.message > th{
+		margin-left:50px;
+	}
+#msg{
+	width:500px;
+}
+#feed{
+	border:ppx solid grey;
+	border-radius: 2px;
+	background-color: lightgrey;
+}
+.contact{
+	background-color: lightgrey;
+	height:200px;
+}
+.contact > h1,p{
+	margin-left:30px;
+}
+.gall{
+	background-color:rgb(216,255,255);
+}
+.gall > h2{
+	margin-left: 20px;
+}
+.gall > table{
+	margin-left: 100px
+}
+#img{
+	border:1px solid lightgrey;
+	border-radius:8px
+}
+}
+.faculty{
+	background-color: rgb(255, 255, 190);
+}
+.activ{
+	background-color:  rgb(255, 255, 190);
+}
+.activ>h2{
+	text-align: center;
+}
+.activ >table,h3{
+	margin-left: 50px;
+}
+.form{
+	background-color: rgb(255, 255, 162);
+}
+.form1{
+	margin-left: 100px;
+}
+.form1 > fieldset{
+	width:800px;
+}
+.form1 > legend{
+	margin-left:20px;
+}
+.form1 > p{
+	margin-left:200px;
+}
+.log{
+	background-color: rgb(255, 255, 162);
+}
+.form2 > fieldset{
+	width:400px;
+}
+.cont > h2{
+	text-align:center;
+}
+.content{
+	background-color: rgb(255, 255, 190);
+}
+.cont > table{
+	margin-left:50px;
+}
+.cont2 > table{
+	margin-left: 50px;
+}
+.cont3 > table{
+	margin-left: 50px;
+}
+#space{
+	width:40px;
+}
